@@ -17,3 +17,7 @@
 
 1. Перейти по ссылке https://denisbiushkin.github.io/tic-tac-toe-web/
 2. Приступить к игре
+
+## Ссылки
+- [GitHub репозиторий](https://github.com/DenisBiushkin/tic-tac-toe-web)
+- [GitHub Pages](https://denisbiushkin.github.io/tic-tac-toe-web/)
